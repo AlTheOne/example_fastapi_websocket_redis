@@ -1,0 +1,24 @@
+# Unittests / reports
+.pytest_cache
+.hypothesis
+.coverage
+artefacts
+
+# Ide
+.idea
+.vscode
+.run
+
+# Environments
+venv
+env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+/.env
